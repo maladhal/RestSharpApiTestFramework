@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RestSharpApiTestFramework.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71e545faaf7e6772c3cbf7450b7f5c6961068f49")]
 [assembly: System.Reflection.AssemblyProductAttribute("RestSharpApiTestFramework.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RestSharpApiTestFramework.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

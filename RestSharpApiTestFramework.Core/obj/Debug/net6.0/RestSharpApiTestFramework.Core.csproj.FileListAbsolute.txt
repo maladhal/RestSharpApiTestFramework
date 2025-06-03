@@ -1,0 +1,13 @@
+E:\source\C#\RestSharpApiTestFramework\RestSharpApiTestFramework.Core\bin\Debug\net6.0\RestSharpApiTestFramework.Core.deps.json
+E:\source\C#\RestSharpApiTestFramework\RestSharpApiTestFramework.Core\bin\Debug\net6.0\RestSharpApiTestFramework.Core.dll
+E:\source\C#\RestSharpApiTestFramework\RestSharpApiTestFramework.Core\bin\Debug\net6.0\RestSharpApiTestFramework.Core.pdb
+E:\source\C#\RestSharpApiTestFramework\RestSharpApiTestFramework.Core\obj\Debug\net6.0\RestSharpApiTestFramework.Core.csproj.AssemblyReference.cache
+E:\source\C#\RestSharpApiTestFramework\RestSharpApiTestFramework.Core\obj\Debug\net6.0\RestSharpApiTestFramework.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\C#\RestSharpApiTestFramework\RestSharpApiTestFramework.Core\obj\Debug\net6.0\RestSharpApiTestFramework.Core.AssemblyInfoInputs.cache
+E:\source\C#\RestSharpApiTestFramework\RestSharpApiTestFramework.Core\obj\Debug\net6.0\RestSharpApiTestFramework.Core.AssemblyInfo.cs
+E:\source\C#\RestSharpApiTestFramework\RestSharpApiTestFramework.Core\obj\Debug\net6.0\RestSharpApiTestFramework.Core.csproj.CoreCompileInputs.cache
+E:\source\C#\RestSharpApiTestFramework\RestSharpApiTestFramework.Core\obj\Debug\net6.0\RestSharpApiTestFramework.Core.sourcelink.json
+E:\source\C#\RestSharpApiTestFramework\RestSharpApiTestFramework.Core\obj\Debug\net6.0\RestSharpApiTestFramework.Core.dll
+E:\source\C#\RestSharpApiTestFramework\RestSharpApiTestFramework.Core\obj\Debug\net6.0\refint\RestSharpApiTestFramework.Core.dll
+E:\source\C#\RestSharpApiTestFramework\RestSharpApiTestFramework.Core\obj\Debug\net6.0\RestSharpApiTestFramework.Core.pdb
+E:\source\C#\RestSharpApiTestFramework\RestSharpApiTestFramework.Core\obj\Debug\net6.0\ref\RestSharpApiTestFramework.Core.dll
