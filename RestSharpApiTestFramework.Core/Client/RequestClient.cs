@@ -11,7 +11,7 @@ namespace RestSharpApiTestFramework.Core.Client
         {
             var options = new RestClientOptions(baseUrl)
             {
-                ThrowOnAnyError = true,
+                ThrowOnAnyError = false, // catching errors as part of test so Bad request is a pass when expected.
             };
             _client = new RestClient(options);
         }
